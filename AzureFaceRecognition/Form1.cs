@@ -20,7 +20,7 @@ namespace AzureFaceRecognition
 
     public partial class Form1 : Form
     {
-        private readonly IFaceServiceClient faceServiceClient = new FaceServiceClient("c9dad05412cd48a1bd036a4f06c841f1", "https://westcentralus.api.cognitive.microsoft.com/face/v1.0");
+        private readonly IFaceServiceClient faceServiceClient = new FaceServiceClient("Your key here", "Api end point here");
 
         string _imagePath = "";
         string _groupId   = "";
