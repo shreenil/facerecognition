@@ -1,0 +1,74 @@
+C:\Users\EMILIANO.ESSETRESRL\AppData\Local\Temporary Projects\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe.config
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe.config
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.pdb
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.App.config
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.Form1.resources
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.Properties.Resources.resources
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.GenerateResource.Cache
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.exe
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.pdb
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe.config
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.pdb
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.App.config
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.Form1.resources
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.Properties.Resources.resources
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.GenerateResource.Cache
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.exe
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\AzureFaceRecognition\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.pdb
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe.config
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.pdb
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\Microsoft.ProjectOxford.Common.dll
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\Microsoft.ProjectOxford.Face.dll
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\Newtonsoft.Json.dll
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\System.Net.Http.Extensions.dll
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\System.Net.Http.Primitives.dll
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\Newtonsoft.Json.xml
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\System.Net.Http.Extensions.xml
+F:\Face Api\C#\AzureFaceRecognition\bin\Debug\System.Net.Http.Primitives.xml
+F:\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.App.config
+F:\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.Form1.resources
+F:\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.Properties.Resources.resources
+F:\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.GenerateResource.Cache
+F:\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.CoreCompileInputs.cache
+F:\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.exe
+F:\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.pdb
+F:\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe.config
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.exe
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\AzureFaceRecognition.pdb
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.App.config
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.Form1.resources
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.Properties.Resources.resources
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.GenerateResource.Cache
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.exe
+C:\Users\Shreenil\Desktop\Shreenil\Face Api\C#\AzureFaceRecognition\obj\Debug\AzureFaceRecognition.pdb
